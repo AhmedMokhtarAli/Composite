@@ -1,0 +1,3 @@
+interface Emploee {
+fun showEmploeeDetails()
+}
